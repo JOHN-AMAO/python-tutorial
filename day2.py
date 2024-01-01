@@ -12,3 +12,9 @@ def perform_operations(a, b):
 
 print(perform_operations(2, 7))
 help(perform_operations)
+
+def make_sense(a, b):
+    print(a, b)
+
+make_sense(2,3)
+
