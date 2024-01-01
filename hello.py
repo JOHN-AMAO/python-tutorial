@@ -6,5 +6,5 @@ if number < 4 :
     print("Number is less than 4")
 else:
     print("Number is greater than 4")
-
-print(hello)
+type(number)
+print(hello * 4)
