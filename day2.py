@@ -18,3 +18,7 @@ def make_sense(a, b):
 
 make_sense(2,3)
 
+def greet(who="John"): 
+    print("Good morning", who)
+greet()
+greet(who="Favour")
