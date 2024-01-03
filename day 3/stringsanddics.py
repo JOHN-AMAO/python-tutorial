@@ -1,4 +1,6 @@
 
-hello = "Print"
+hello = "Print is one of the biggest discoveries of humanity"
 
-print( [h.upper() for h in hello] )
+splitted = hello.split()
+
+print(splitted)
