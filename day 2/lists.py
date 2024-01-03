@@ -9,3 +9,14 @@ planets.append("pluto")
 
 print(planets)
 print("pluto" in planets)
+
+
+
+x= 0.125
+print(x.as_integer_ratio())
+
+a = 1
+b = 0
+
+a, b =  b, a
+print(a,b)
