@@ -1,2 +1,4 @@
-for i in range(5):
-    print("this is useful")
+square = [n**2 for n in range(6)]
+
+print(square)
+
