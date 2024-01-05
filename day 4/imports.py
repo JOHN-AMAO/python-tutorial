@@ -1,3 +1,3 @@
-import math
+import numpy
 
-print(dir(math))
+print(numpy.random.randint(low=1, high=6, size=10))
