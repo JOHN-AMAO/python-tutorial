@@ -1,3 +1,3 @@
-names = {"John": 1, "precious":2, "sade": 1}
+names = {"John": 1, "favour":2, "sade": 1}
 
 print(help(str))
